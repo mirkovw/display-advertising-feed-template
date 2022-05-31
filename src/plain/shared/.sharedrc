@@ -9,7 +9,6 @@
     },
     "contentSource":{
       "url":"https://docs.google.com/spreadsheets/d/1QBJsOKSsfevDXvNXvczZFySyZeEEi3ENYTovfCe7yOw/edit#gid=0",
-      "apiKey": "???",
       "tabName": "main"
     },
     "useOriginalFileNames": false,
